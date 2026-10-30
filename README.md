@@ -1,7 +1,7 @@
 # Automated Trade Reconciliation Engine
 
 ## Overview
-A Python-based reconciliation tool designed to automate the comparison between internal trading ledgers (e.g., Citadel internal) and external bank statements. This tool identifies breaks in trade quantity, price, and missing bookings, reducing manual operational risk.
+A Python-based reconciliation tool designed to automate the comparison between internal trading ledgers and external bank statements. This tool identifies breaks in trade quantity, price, and missing bookings, reducing manual operational risk.
 
 ## Features
 * **Data Normalization:** Standardizes column headers from disparate sources.

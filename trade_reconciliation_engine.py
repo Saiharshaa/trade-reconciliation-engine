@@ -9,7 +9,7 @@ Original file is located at
 
 import pandas as pd
 
-# 1. Create the Internal Data (Citadel's Ledger)
+# 1. Create the Internal Data (Internal Ledger)
 data_internal = {
     'TradeID': [101, 102, 103],
     'Symbol': ['AAPL', 'TSLA', 'GOOG'],
